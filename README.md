@@ -31,7 +31,7 @@ Welcome to my GitHub space — where I try to solve the boring problems that bug
 
 ## 📊 GitHub Stats
 
-![Chaos97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelpalace&show_icons=true&theme=radical)
+![Joelpalace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelpalace&show_icons=true&theme=radical)
 
 ---
 
