@@ -31,7 +31,8 @@ Welcome to my GitHub space — where I try to solve the boring problems that bug
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-oval&logo=playwright&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-ovalbadge&logo=playwright&logoColor=white&labelColor=FFF8DC)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white)
+
 ## 📊 GitHub Stats
 
 ![Joelpalace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joelpalace&show_icons=true&theme=radical)
