@@ -30,7 +30,7 @@ Welcome to my GitHub space — where I try to solve the boring problems that bug
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-oval&logo=playwright&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge-oval&logo=playwright&logoColor=white&labelColor=FFF8DC)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-ovalbadge&logo=playwright&logoColor=white&labelColor=FFF8DC)
 
 ## 📊 GitHub Stats
 
