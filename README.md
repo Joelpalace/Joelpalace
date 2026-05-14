@@ -15,7 +15,7 @@ Welcome to my GitHub space — where I try to solve the boring problems that bug
 - 🌱 Currently learning: React, Advanced Node.js, MongoDB performance, and system design
 - 👯 Open to collaborate on: Backend-heavy open-source projects
 - 🤔 Looking for help with: Microservices and scaling APIs
-- 💬 Ask me about: JavaScript | Express.js | MongoDB | REST APIs | Node.js | Python
+- 💬 Ask me about: JavaScript | Express.js | MongoDB | REST APIs | Node.js | Python | Playwright | Cypress
 - ⚡ Fun fact: Developer at Day 🌙 
 - 🗄 Portfolio: 
 - 📫 Reach me at: *joddeilove@gmail.com*
@@ -30,6 +30,7 @@ Welcome to my GitHub space — where I try to solve the boring problems that bug
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&labelColor=FFF8DC)
 
 ## 📊 GitHub Stats
 
